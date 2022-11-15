@@ -1,0 +1,1 @@
+cargo watch -qc -x 'run -- BMW' -x clippy
